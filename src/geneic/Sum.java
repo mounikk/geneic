@@ -6,6 +6,10 @@ public class Sum {
 		// TODO Auto-generated method stub
 		
 		System.out.println(5+8);
+		// Trying rebase vs merge 
+		// git merge --squash merge
+		// git commit -m "merged into master branch"
+	      
 
 	}
 
